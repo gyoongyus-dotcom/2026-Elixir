@@ -64,5 +64,5 @@ vcf:
 clean:
 	rm -rf reads bam refs 
 
-.PHONY: download fastq index align clean vcf
+.PHONY: download genome fastq index align clean vcf
 	
