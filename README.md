@@ -5,8 +5,8 @@ This repository contains my projects for the bioinformatics course.
 The aim of this repository is to present simple, documented and reproducible bioinformatics workflows that were practiced during the course. The projects show how public sequencing data can be processed with command-line tools and organized in a clear GitHub repository.
 
 The repository contains two projects: 
-    Ebola surveillance workflow 
-    RNA-seq workflow
+    Ebola surveillance workflow and
+    RNA-seq workflow.
 
 Each project has its own folder with a `README.md`, a `Makefile`, and a `design.csv` file.
 
